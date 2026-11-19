@@ -1,0 +1,40 @@
+{
+  "users": {
+    "553440131": {
+      "id": 553440131,
+      "username": "numonjonoova",
+      "firstName": "Shahnoza",
+      "registered": true,
+      "blocked": false,
+      "joinedAt": "2026-11-19T20:27:42.733Z",
+      "fullName": "Shahnoza Nu'monjonova",
+      "role": "🎓 O'quvchi",
+      "region": "Farg'ona",
+      "phone": "+998918454004",
+      "registeredAt": "2026-11-19T20:28:56.132Z"
+    },
+    "8108855359": {
+      "id": 8108855359,
+      "username": "AzizbekXolboyvich",
+      "firstName": "Roʻziboyev",
+      "registered": true,
+      "blocked": false,
+      "joinedAt": "2026-11-19T16:58:24.255Z",
+      "fullName": "Azizbek Ro'ziboyev",
+      "role": "🎓 O'quvchi",
+      "region": "Toshkent viloyati",
+      "phone": "+998772077209",
+      "registeredAt": "2026-11-19T17:15:14.011Z"
+    }
+  },
+  "proposals": [],
+  "questions": [],
+  "news": [],
+  "events": [],
+  "seq": {
+    "proposal": 0,
+    "question": 0,
+    "news": 0,
+    "event": 0
+  }
+}

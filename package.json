@@ -1,0 +1,17 @@
+{
+  "name": "talim-qomitasi-bot",
+  "version": "1.0.0",
+  "description": "Ta'lim qo'mitasi uchun Telegram bot: loyiha takliflari, murojaatlar, yangiliklar, tadbirlar va admin panel",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "telegraf": "^4.16.3"
+  }
+}
